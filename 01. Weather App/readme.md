@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Banner](banner.png)
+![Weather App Banner](../@demo/01.png)
 
 ## Overview
 This project is a simple and intuitive Weather App built using HTML, CSS, and JavaScript. The app fetches real-time weather data from the OpenWeatherMap API and displays it on the website. Users can search for the current weather conditions of any city.
