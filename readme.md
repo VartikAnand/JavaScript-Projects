@@ -2,7 +2,7 @@
 
 | Project Title | Screenshot                                         | Live Link      | Description                                                                                                                                                                           |
 | ------------- | -------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Weather App   | <img src="./@demo/01.png" alt="Weather App" />     | [Live Demo](#) | A simple weather application that provides current weather information based on the user's location. It fetches data from a weather API and displays it in a user-friendly interface. |
+| Weather App   | <img src="./screenshots/01.png" alt="Weather App" />  |    A simple weather application that provides current weather information based on the user's location. It fetches data from a weather API and displays it in a user-friendly interface. | [Live Demo](https://github.com/VartikAnand/JavaScript-Projects/tree/main/01.%20Weather%20App) |
 
 ## Installation
 
